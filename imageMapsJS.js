@@ -1,4 +1,3 @@
-//data-coords dodać trzeba zawsze
 window.onload = function() {
     var previousWidth = document.body.clientWidth;
     var currentWidth = document.body.clientWidth;
